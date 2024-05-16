@@ -107,21 +107,21 @@ If you find this script useful for your experiments, please cite my works. Thank
 
 **Montage modes**
 92 01
-![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/1.PNG))
+![alt text](1.PNG))<br />
 92 02
-![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/2.PNG))
+![alt text](2.PNG))<br />
 92 03
-![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/3.PNG))
+![alt text](3.PNG))<br />
 92 04
-![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/4.PNG))
+![alt text](4.PNG))<br />
 92 05
-![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/5.PNG))
+![alt text](5.PNG))<br />
 92 06
-![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/6.PNG))
+![alt text](6.PNG))<br />
 92 07
-![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/7.PNG))
+![alt text](7.PNG))<br />
 92 08
-![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/8.PNG))
+![alt text](8.PNG))<br />
 92 09
-![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/9.PNG))
+![alt text](9.PNG))<br />
 
