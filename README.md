@@ -65,7 +65,7 @@ For KT88-3200 32 channels with state of 200Hz will be streamed to the local netw
 <br />
 **Montage setup (KT88-2400/3200 only)**<br />
 
-92 0X (9 defined montages X=1,...,9, the montage can be explored by going to System configuration -> montage ways). Changes of default montage always follow the command 91 04 (avg reference).<br />
+92 0X (9 defined montages X=1,...,9, the montage can be explored by going to System configuration -> montage ways, see screenshots bellow). Changes of default montage always follow the command 91 04 (avg reference).<br />
 <br /><br />
 
 **Uknown commands**<br />
@@ -104,3 +104,24 @@ If you find this script useful for your experiments, please cite my works. Thank
 `Miladinović, Aleksandar, et al. "Performance of EEG Motor-Imagery based spatial filtering methods: A BCI study on Stroke patients." Procedia Computer Science 176 (2020): 2840-2848.`
 
 `Miladinović, Aleksandar, et al. "Evaluation of Motor Imagery-Based BCI methods in neurorehabilitation of Parkinson’s Disease patients." 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2020.`
+
+**Montage modes**
+92 01
+![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/1.PNG))
+92 02
+![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/2.PNG))
+92 03
+![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/3.PNG))
+92 04
+![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/4.PNG))
+92 05
+![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/5.PNG))
+92 06
+![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/6.PNG))
+92 07
+![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/7.PNG))
+92 08
+![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/8.PNG))
+92 09
+![alt text]([http://url/to/img.png](https://github.com/miladinovic/Contec_EEG_KT88_to_LSL/blob/main/9.PNG))
+
