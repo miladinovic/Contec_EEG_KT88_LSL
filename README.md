@@ -105,23 +105,23 @@ If you find this script useful for your experiments, please cite my works. Thank
 
 `Miladinović, Aleksandar, et al. "Evaluation of Motor Imagery-Based BCI methods in neurorehabilitation of Parkinson’s Disease patients." 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2020.`
 
-**Montage modes**
-92 01
+**Montage modes**<br />
+92 01<br />
 ![alt text](1.PNG))<br />
-92 02
+92 02<br />
 ![alt text](2.PNG))<br />
-92 03
+92 03<br />
 ![alt text](3.PNG))<br />
-92 04
+92 04<br />
 ![alt text](4.PNG))<br />
-92 05
+92 05<br />
 ![alt text](5.PNG))<br />
-92 06
+92 06<br />
 ![alt text](6.PNG))<br />
-92 07
+92 07<br />
 ![alt text](7.PNG))<br />
-92 08
+92 08<br />
 ![alt text](8.PNG))<br />
-92 09
+92 09<br />
 ![alt text](9.PNG))<br />
 
